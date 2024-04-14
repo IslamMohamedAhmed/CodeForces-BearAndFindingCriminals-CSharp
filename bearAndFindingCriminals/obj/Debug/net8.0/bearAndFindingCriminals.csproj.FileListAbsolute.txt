@@ -1,0 +1,14 @@
+C:\Users\Islam Mohamed\Documents\C# Projects\bearAndFindingCriminals\bearAndFindingCriminals\bin\Debug\net8.0\bearAndFindingCriminals.exe
+C:\Users\Islam Mohamed\Documents\C# Projects\bearAndFindingCriminals\bearAndFindingCriminals\bin\Debug\net8.0\bearAndFindingCriminals.deps.json
+C:\Users\Islam Mohamed\Documents\C# Projects\bearAndFindingCriminals\bearAndFindingCriminals\bin\Debug\net8.0\bearAndFindingCriminals.runtimeconfig.json
+C:\Users\Islam Mohamed\Documents\C# Projects\bearAndFindingCriminals\bearAndFindingCriminals\bin\Debug\net8.0\bearAndFindingCriminals.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\bearAndFindingCriminals\bearAndFindingCriminals\bin\Debug\net8.0\bearAndFindingCriminals.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\bearAndFindingCriminals\bearAndFindingCriminals\obj\Debug\net8.0\bearAndFindingCriminals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam Mohamed\Documents\C# Projects\bearAndFindingCriminals\bearAndFindingCriminals\obj\Debug\net8.0\bearAndFindingCriminals.AssemblyInfoInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\bearAndFindingCriminals\bearAndFindingCriminals\obj\Debug\net8.0\bearAndFindingCriminals.AssemblyInfo.cs
+C:\Users\Islam Mohamed\Documents\C# Projects\bearAndFindingCriminals\bearAndFindingCriminals\obj\Debug\net8.0\bearAndFindingCriminals.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\bearAndFindingCriminals\bearAndFindingCriminals\obj\Debug\net8.0\bearAndFindingCriminals.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\bearAndFindingCriminals\bearAndFindingCriminals\obj\Debug\net8.0\refint\bearAndFindingCriminals.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\bearAndFindingCriminals\bearAndFindingCriminals\obj\Debug\net8.0\bearAndFindingCriminals.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\bearAndFindingCriminals\bearAndFindingCriminals\obj\Debug\net8.0\bearAndFindingCriminals.genruntimeconfig.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\bearAndFindingCriminals\bearAndFindingCriminals\obj\Debug\net8.0\ref\bearAndFindingCriminals.dll
